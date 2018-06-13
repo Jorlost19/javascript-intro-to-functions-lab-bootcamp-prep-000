@@ -16,5 +16,7 @@ function sayHiToGrandma(string){
  if (string==='hello') {
    console.log("I can't hear you!");
  }
-  else if(string===)
+  else if(string==='HELLO'){
+    console.log
+  }
 }
