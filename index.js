@@ -13,6 +13,7 @@ function logWhisper(string) {
   console.log('hello');
 }
 function sayHiToGrandma(string){
-  let greetings = 'HELLO';
+ if sayHiToGrandma('hello'), 
+      console.log('')
   
 }
