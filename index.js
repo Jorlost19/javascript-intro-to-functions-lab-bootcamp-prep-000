@@ -12,3 +12,7 @@ function logShout(string) {
 function logWhisper(string) {
   console.log('hello');
 }
+function sayHiToGrandma(string){
+  let greetings = 'HELLO';
+  
+}
